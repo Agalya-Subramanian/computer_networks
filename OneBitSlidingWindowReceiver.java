@@ -32,6 +32,4 @@ public class OneBitSlidingWindowReceiver {
         }
 
         socket.close();
-        serverSocket.close();
-    }
-}
+        serverSocket.close();}}
